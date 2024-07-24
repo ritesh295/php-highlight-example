@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>PHPHighlight example 2</title>
+    <title>PHPHighlight example 3</title>
     <style>
         body {
             background-color: #1E1E1E;
